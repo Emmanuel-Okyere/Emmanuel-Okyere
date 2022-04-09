@@ -1,6 +1,6 @@
 - 👋 Hi, I am Emmanuel Okyere Gyateng
-- 👀 I am interested in Software Development
-- 🌱 I am currently a certified Data Science.
+- 👀 I am a certified Data Scienctist currently into deep learning.
+- 🌱 I am interested in Software Development and its cultures such as Agile and DevOps.
 - 💞️ I am looking to collaborate on Data Science projects.
 - 📫 Kindly reach out to me by sending a message.
 
