@@ -22,3 +22,15 @@ You can click the Preview link to take a look at your changes.
 <a href="/">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Emmanuel-Okyere&theme=vue&hide_border=true" />
 </a>
+</div>
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=chideraike&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)
+<br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=chideraike&theme=highcontrast&hide_border=false)
+<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chideraike&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+</div>
