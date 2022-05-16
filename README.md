@@ -18,5 +18,5 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 <a href="/">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=LighteningCode&theme=vue&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Emmanuel-Okyere&theme=vue&hide_border=true" />
 </a>
