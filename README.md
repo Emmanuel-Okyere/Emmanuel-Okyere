@@ -24,7 +24,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-okyere&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 </div>
 
