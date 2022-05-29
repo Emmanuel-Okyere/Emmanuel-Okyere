@@ -2,6 +2,7 @@
 I am Emmanuel Okyere Gyateng, I am based in Accra, Ghana and I am a certified **Data Scienctist** currently into deep learning. I am experienced in:
 - Python Programming
 - Django
+- Flask
 - Machine Learning
 - Deep Learning
 - Data Visualization
