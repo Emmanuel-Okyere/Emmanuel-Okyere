@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=emmanuel-okyere&icon=2&color=11)](https://visitcount.itsvg.in)
 # About Me
 I am Emmanuel Okyere Gyateng, I am based in Accra, Ghana and I am a certified **Data Scienctist** currently into deep learning. I am experienced in:
 - Python Programming
