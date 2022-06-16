@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://github-readme-stats.vercel.app/api?username=emmanuel-okyere&theme=light&hide_border=false&include_all_commits=false&count_private=true)
 <br />
-![](https://github-readme-streak-stats.herokuapp.com/?user=emmanuel-gyateng&theme=highcontrast&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=emmanuel-okyere&theme=highcontrast&hide_border=false)
 <br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-okyere&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <a href="https://github.com/emmanuel-okyere/github-readme-activity-graph"><img alt="Emmanuel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=emmanuel-okyere&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
