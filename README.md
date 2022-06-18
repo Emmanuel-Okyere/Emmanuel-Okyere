@@ -9,7 +9,6 @@ I am Emmanuel Okyere Gyateng, I am based in Accra, Ghana and I am a certified **
 - Deep Learning
 - Data Visualization
 - Web Scraping
-- Statistical Analysis
 - SQL
 - Postgres
 
