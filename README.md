@@ -10,7 +10,7 @@ I am Emmanuel Okyere Gyateng, I am based in Accra, Ghana and I am a certified **
 - Data Visualization
 - Web Scraping
 - SQLite
-- -Auth0
+- Auth0
 - Postgres
 - Jira
 
