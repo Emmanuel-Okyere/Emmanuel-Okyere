@@ -1,6 +1,6 @@
 <a href="https://github.com/emmanuel-okyere?tab=followers"><img src="https://img.shields.io/github/followers/emmanuel-okyere?label=Followers&style=social" alt="GitHub Badge"></a>
 # About Me
-I am Emmanuel Okyere Gyateng, I am based in Accra, Ghana and I am a certified **Data Scienctist** currently into deep learning. I am experienced in:
+I am Emmanuel Okyere Gyateng, I am based in Accra, Ghana and I am a certified **Full stack developer** and **Data Scienctist** currently into deep learning. I am experienced in:
 - Python Programming
 - Django Framework
 - Flask
