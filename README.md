@@ -17,10 +17,7 @@ I am Emmanuel Okyere Gyateng, I am based in Accra, Ghana and I am a certified **
 I am also a little into Software Development and adopt the cultures of *Agile* and *DevOps* in development. I use **Django** to develop the backend of applications so basically I am also a **Django Backend Developer**.
 I look forward to collaborate on Data Science projects. Kindly reach out to me by sending a message on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-gyateng-b90682154) or my [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aquila_gh) or via [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gyateng94@gmail.com).
 
-<!---
-Emmanuel-Okyere/Emmanuel-Okyere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=emmanuel-okyere&theme=light&hide_border=false&include_all_commits=false&count_private=true)
