@@ -6,7 +6,6 @@ I am Emmanuel Okyere Gyateng, I am based in Accra, Ghana and I am a certified **
 - Flask
 - Machine Learning
 - Deep Learning
-- Data Visualization
 - Web Scraping
 - SQLite
 - Auth0
