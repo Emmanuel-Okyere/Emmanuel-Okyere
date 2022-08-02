@@ -12,7 +12,7 @@ I am Emmanuel Okyere Gyateng, I am based in Accra, Ghana and I am a certified **
 - Auth0
 - PostgresSQL
 - AWS
-JavaScript
+- JavaScript
 - Docker & Docker Hub
 
 I am also a little into Software Development and adopt the cultures of *Agile* and *DevOps* in development. I use **Django** to develop the backend of applications so basically I am also a **Django Backend Developer**.
