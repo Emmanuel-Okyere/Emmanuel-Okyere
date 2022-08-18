@@ -4,6 +4,7 @@ I am Emmanuel Okyere Gyateng, I am based in Accra, Ghana and I am a certified **
 - Python
 - Django Framework
 - Flask
+- FastAPI
 - Machine Learning
 - Deep Learning
 - Data Visualization
