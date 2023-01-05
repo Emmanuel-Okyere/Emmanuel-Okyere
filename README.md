@@ -2,6 +2,9 @@
 # About Me
 I am Emmanuel Okyere Gyateng, I am based in Accra, Ghana and I am a certified **Full Stack Developer** and **Data Scienctist (Machine Learning Specialist)**. I am experienced in:
 - Python
+- Java
+- Spring Boot
+- Microservice
 - Django Framework
 - Flask
 - FastAPI
