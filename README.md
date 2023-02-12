@@ -30,8 +30,6 @@ I look forward to collaborate on Data Science projects. Kindly reach out to me b
 <br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emmanuel-okyere&theme=highcontrast&hide_border=false)
 <br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-okyere&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-<a href="https://github.com/emmanuel-okyere/github-readme-activity-graph"><img alt="Emmanuel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=emmanuel-okyere&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)
 
