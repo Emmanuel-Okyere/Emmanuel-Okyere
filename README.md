@@ -32,15 +32,10 @@ I look forward to collaborate on Data Science projects. Kindly reach out to me b
 <br />
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)
-![snake gif](https://github.com/emmanuel-okyere/emmanuel-okyere/blob/output/github-contribution-grid-snake.gif)
+# Contribution graph eaten ny sname!!
+![snake gif](https://github.com/emmanuel-okyere/emmanuel-okyere/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/emmanuel-okyere/emmanuel-okyere/blob/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/emmanuel-okyere/count.svg" />
