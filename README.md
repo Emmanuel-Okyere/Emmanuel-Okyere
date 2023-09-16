@@ -3,20 +3,16 @@
 I am Emmanuel Okyere Gyateng, I am based in Accra, Ghana and I am a certified **Full Stack Developer** and **Data Scienctist (Machine Learning Specialist)**. I am experienced in:
 - Python
 - Java
+- C#
 - Spring Boot
-- Microservice
+- Asp .NET
 - Django Framework
 - Flask
 - FastAPI
 - Machine Learning
-- Deep Learning
-- Data Visualization
-- Web Scraping
-- SQLite
-- Auth0
 - PostgresSQL
 - AWS
-- JavaScript
+- Typescript
 - Angular
 - Docker & Docker Hub
 
@@ -30,11 +26,9 @@ I look forward to collaborate on Data Science projects. Kindly reach out to me b
 <br />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emmanuel-okyere&theme=highcontrast&hide_border=false)
 <br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-okyere&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)
-# Contribution graph eaten ny sname!!
-![snake gif](https://github.com/emmanuel-okyere/emmanuel-okyere/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 <p align="center"> 
   Visitor count<br>
